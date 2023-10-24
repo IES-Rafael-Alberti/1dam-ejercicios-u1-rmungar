@@ -1,0 +1,5 @@
+print("Dime el número de barras de ayer: ")
+bar_a=float(input())
+precio = float(3.49)
+precio_a = ((bar_a*3.49)*0.6)
+print("El precio es de:",round(precio_a,2),"€")

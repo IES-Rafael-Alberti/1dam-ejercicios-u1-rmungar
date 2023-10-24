@@ -1,0 +1,5 @@
+print("Dime tu nombre: ")
+nombre=input()
+total_nombre=len(nombre)
+nombre_upper=nombre.upper()
+print(nombre_upper,"tiene",total_nombre,"letras")

@@ -1,0 +1,8 @@
+print("Dime tu nombre completo (puedes intercalar mayúsculas y minúsculas a placer):")
+nombre=input()
+nombre_upper = nombre.upper()
+nombre_lower = nombre.lower()
+nombre_title = nombre.title()
+print(nombre_lower)
+print(nombre_upper)
+print(nombre_title)
