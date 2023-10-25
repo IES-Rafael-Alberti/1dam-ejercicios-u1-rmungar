@@ -1,7 +1,0 @@
-print("Dime el número de payasos y muñecas:")
-np = input()
-nm = input()
-pp = (np*112)
-pm = (nm*75)
-pt = (np+nm)
-print("El peso total del paquete es de: ",pt,"g")
