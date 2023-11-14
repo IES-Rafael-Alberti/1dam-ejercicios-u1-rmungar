@@ -1,0 +1,7 @@
+print("Dame dos números para dividir: ")
+print("Primero el dividendo y luego del divisor, por favor")
+n=int(input())
+m=int(input())
+c= (n/m)
+r=(n%m)
+print("la división de", n, "entre", m, "da un cociente", c, "y un resto", r,".")
